@@ -1,0 +1,14 @@
+D:\programacao\C#\vscode\Estacionamentos\obj\Debug\net10.0\Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+D:\programacao\C#\vscode\Estacionamentos\obj\Debug\net10.0\Estacionamento.AssemblyInfoInputs.cache
+D:\programacao\C#\vscode\Estacionamentos\obj\Debug\net10.0\Estacionamento.AssemblyInfo.cs
+D:\programacao\C#\vscode\Estacionamentos\obj\Debug\net10.0\Estacionamento.csproj.CoreCompileInputs.cache
+D:\programacao\C#\vscode\Estacionamentos\bin\Debug\net10.0\Estacionamento.exe
+D:\programacao\C#\vscode\Estacionamentos\bin\Debug\net10.0\Estacionamento.deps.json
+D:\programacao\C#\vscode\Estacionamentos\bin\Debug\net10.0\Estacionamento.runtimeconfig.json
+D:\programacao\C#\vscode\Estacionamentos\bin\Debug\net10.0\Estacionamento.dll
+D:\programacao\C#\vscode\Estacionamentos\bin\Debug\net10.0\Estacionamento.pdb
+D:\programacao\C#\vscode\Estacionamentos\obj\Debug\net10.0\Estacionamento.dll
+D:\programacao\C#\vscode\Estacionamentos\obj\Debug\net10.0\refint\Estacionamento.dll
+D:\programacao\C#\vscode\Estacionamentos\obj\Debug\net10.0\Estacionamento.pdb
+D:\programacao\C#\vscode\Estacionamentos\obj\Debug\net10.0\Estacionamento.genruntimeconfig.cache
+D:\programacao\C#\vscode\Estacionamentos\obj\Debug\net10.0\ref\Estacionamento.dll
